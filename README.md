@@ -20,6 +20,7 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 <p>📫 How to reach me-"ramakrushnapanda634@gmail.com"</p>
 <p>Know about my experiences [https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit](https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit)</p>
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramakrushna6/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-krushna-panda-0b10a6235/)

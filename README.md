@@ -6,16 +6,16 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramakrushnapanda634" alt="ramakrushnapanda634" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/ramakru17294962" target="blank"><img src="https://img.shields.io/twitter/follow/ramakru17294962?logo=twitter&style=for-the-badge" alt="ramakru17294962" /></a> </p>
-
+<p></p>
 <h3>-💫About Me :</h3>
-👋 Hello, Welcome to my profile
-🌱 I’m currently looking for an opportunity as a Full Stack Web developer
-⚡ I'm a passionate software developer
-👀 I’m interested in problem solving and data analytics and manipulation
-😂 I’m also having a great sense of humour with additional touch of memeing..
-😎 I love Cricket and Binge Watching the movies for sometimes
-📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com
-❤️ You can ping me at LinkedIn
+<p>👋 Hello, Welcome to my profile</p>
+<p>🌱 I’m currently looking for an opportunity as a Full Stack Web develope</p>
+<p>⚡ I'm a passionate software developer</p>
+<p>👀 I’m interested in problem solving and data analytics and manipulation</p>
+<p>😂 I’m also having a great sense of humour with additional touch of memeing..</p>
+<p>😎 I love Cricket and Binge Watching the movies for sometimes</p>
+<p>📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com</p>
+<p>❤️ You can ping me at LinkedIn</p>
 
 - 📫 How to reach me **Ramakrushnapanda634@gmail.com**
 

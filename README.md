@@ -17,7 +17,7 @@
 <p>📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com</p>
 <p>❤️ You can ping me at LinkedIn</p>
 
-- 📫 How to reach me **Ramakrushnapanda634@gmail.com**
+- 📫 How to reach me **ramakrushnapanda634@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit](https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit)
 

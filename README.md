@@ -13,10 +13,10 @@
     👀 I’m interested in problem solving and data analytics and manipulation
     😂 I’m also having a great sense of humour with additional touch of memeing..
     😎 I love Cricket and Binge Watching the movies for sometimes
-    📫 How to reach me -> drop me a mail at prajaktakhadse00@gmail.com
+    📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com
     ❤️ You can ping me at LinkedIn
     
-![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon)
+![living](https://img.shields.io/badge/living-Hinjilicut,Odisha)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 

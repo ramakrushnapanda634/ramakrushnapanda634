@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/ramakru17294962" target="blank"><img src="https://img.shields.io/twitter/follow/ramakru17294962?logo=twitter&style=for-the-badge" alt="ramakru17294962" /></a> </p>
 
--💫About Me :
+<h3>-💫About Me :</h3>
 👋 Hello, Welcome to my profile
 🌱 I’m currently looking for an opportunity as a Full Stack Web developer
 ⚡ I'm a passionate software developer

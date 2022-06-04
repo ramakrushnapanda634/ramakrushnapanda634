@@ -17,7 +17,7 @@
     
 ![living](https://img.shields.io/badge/living-Hinjilicut,Odisha)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
-<p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a>
+<p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a><br/>
   Portfolio :-   <a href="https://ramakrushna12.netlify.app/"> https://ramakrushna12.netlify.app/</a>
 <p>Know about my experiences [https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit](https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit)</p>
 

@@ -12,12 +12,12 @@
     👀 I’m interested in problem solving and data analytics and manipulation
     😂 I’m also having a great sense of humour with additional touch of memeing..
     😎 I love Cricket and Binge Watching the movies for sometimes
-    📫 How to reach me -> drop me a mail at <a href="ramakrushnapanda634@gmail.com">E-Mail</a> 
-    ❤️ You can ping me at <a href="https://www.linkedin.com/in/rama-krushna-panda-0b10a6235/"></a>LinkedIn
+    📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com
+    ❤️ You can ping me at LinkedIn
     
 ![living](https://img.shields.io/badge/living-Hinjilicut,Odisha)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
-<p>📫 How to reach me-"ramakrushnapanda634@gmail.com"</p>
+<p>📫 How to reach me-<p>"ramakrushnapanda634@gmail.com"</p>
 <p>Know about my experiences [https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit](https://docs.google.com/document/d/1LwMFH-Y__SI2u8ge29cSPJk_pf5QhXs13D2I0EbzAMg/edit)</p>
 
 ## 🌐Socials

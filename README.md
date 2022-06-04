@@ -1,4 +1,4 @@
-<h1 >Rama Krushna Panda</h1>
+<h1 align="center";color="teal">Rama Krushna Panda</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
 

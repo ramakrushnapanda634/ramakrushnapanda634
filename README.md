@@ -15,7 +15,8 @@
     📫 How to reach me -> drop me a mail at ramakrushnapanda634@gmail.com
     ❤️ You can ping me at LinkedIn
     
-![living](https://img.shields.io/badge/living-Hinjilicut,Odisha)
+![living](https://img.shields.io/badge/living-Hinjilicut,Odisha
+<!-- ![living](https://img.shields.io/badge/living-Chandrapur,Maharashtra-maroon -->
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 <p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a><br/>
   Portfolio :-   <a href="https://ramakrushna12.netlify.app/"> https://ramakrushna12.netlify.app/</a>

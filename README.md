@@ -1,4 +1,6 @@
 <h1 align="center";color="teal">Rama Krushna Panda</h1>
+<h2>A passionate full-stack Web developer from India</h2>
+<p>I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ My field of Interest's are building new Web Technologies and Products. A passionate Full Stack Web Developer 🚀 I have an experience of building Web applications with HTML, CSS, JavaScript, Reactjs and some other cool libraries</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
 

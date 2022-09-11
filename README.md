@@ -24,7 +24,7 @@
 <p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a><br/>
   Portfolio :-   <a href="https://ramakrushnapanda143.netlify.app/">https://ramakrushnapanda143.netlify.app/</a>
 
-<p>Know about my experiences :- <a href="https://drive.google.com/file/d/1IA_ntrhO77LQ0JGJoNnKDZkkZNCUvYxJ/view?usp=sharing">Resume</a></p>
+<p>Know about my experiences :- <a href="https://drive.google.com/file/d/1IRgU2FsNs2FG2y6drRCQnC5XcRaCG2fU/view?usp=sharing">Resume</a></p>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ramakrushna6/?hl=en)

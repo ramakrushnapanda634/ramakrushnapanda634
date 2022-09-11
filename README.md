@@ -22,7 +22,7 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 <p>📫 How to reach me-<a href="ramakrushnapanda634@gmail.com">Gmail</a><br/>
-  Portfolio :-   <a href="https://ramakrushnapanda321.netlify.app/">https://ramakrushnapanda321.netlify.app/</a>
+  Portfolio :-   <a href="https://rama-krushna-panda.netlify.app/">https://rama-krushna-panda.netlify.app/</a>
 
 <p>Know about my experiences :- <a href="https://drive.google.com/file/d/1IRgU2FsNs2FG2y6drRCQnC5XcRaCG2fU/view?usp=sharing">Resume</a></p>
 

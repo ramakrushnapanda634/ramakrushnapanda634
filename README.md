@@ -1,4 +1,4 @@
-<h1 align="center";color="teal">Hi 👋, I'm Rama Krushna Panda</h1>
+<h1 align="center";color="teal">Hi 👋,  Rama Krushna Panda</h1>
 <h2 align="center">A passionate full-stack Web developer from India</h2>
 <p align="center">  Have an experience of building Web applications with HTML, CSS, JavaScript, Reactjs and some other cool libraries</p>
 

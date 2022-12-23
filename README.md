@@ -57,3 +57,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=ramakrushnapanda634&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramakrushnapanda634&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrushnapanda634&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SWAIN1998&theme=github_dark" alt="RAKESH KUMAR SWAIN" align = "center"/></p>
+</div>
+
+<div>
+  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
+  <p align="center"<a href="#"><img alt="SWAIN1998's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SWAIN1998&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+</div>
+
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a href="https://github.com/SWAIN1998"><img src="https://github-profile-trophy.vercel.app/?username=SWAIN1998&margin-w=5&theme=radical" alt="Abhishek" /></a> </p>
+</div>
+
+ <hr>

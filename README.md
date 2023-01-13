@@ -1,6 +1,7 @@
 <h1 align="center";color="teal">Hi 👋,  Rama Krushna Panda</h1>
-<h2 align="center">A passionate full-stack Web developer from India</h2>
-<p align="center">  Have an experience of building Web applications with HTML, CSS, JavaScript, Reactjs and some other cool libraries</p>
+<h2 align="center">I am a full-stack web developer specializing in front end & back end web development, who enjoys solving complex problems and architecting reliable solutions. Looking to thrive in an environment that can utilize both my engineering and coding skills to create engaging consumer facing applications.
+</h2>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
